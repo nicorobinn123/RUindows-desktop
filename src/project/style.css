@@ -1,0 +1,54 @@
+.password-field {
+    -fx-background-color: transparent;
+    -fx-text-fill: white;
+    -fx-border-color: white;
+    -fx-border-radius: 5;
+    -fx-prompt-text-fill: rgba(255, 255, 255, 0.5); /* lighter white for placeholder */
+    -fx-background-insets: 0;
+    -fx-padding: 5 8;
+}
+
+.login-button {
+    -fx-background-color: transparent;
+    -fx-border-color: white;
+    -fx-border-width: 2;
+    -fx-border-radius: 5;
+    -fx-text-fill: white;
+    -fx-background-insets: 0;
+    -fx-padding: 6 12;
+    -fx-cursor: hand; /* changes cursor on hover */
+}
+
+.login-button:hover {
+    -fx-background-color: rgba(255, 255, 255, 0.2); /* subtle white hover */
+    -fx-text-fill: white;
+    -fx-border-color: white;
+}
+
+.menu-bar {
+    -fx-background-color: black;
+}
+
+.menu-item {
+    -fx-background-color: black;
+    -fx-text-fill: white;
+}
+
+.menu-item:hover {
+    -fx-background-color: black;
+}
+
+.context-menu {
+    -fx-background-color: black;
+}
+
+.domainUnfound1 {
+    -fx-font-size: 30px;
+    -fx-font-weight: bold;
+    -fx-text-alignment: center;
+}
+
+.domainUnfound2 {
+    -fx-font-size: 20px;
+    -fx-text-alignment: center;
+}
