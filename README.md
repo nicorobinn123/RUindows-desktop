@@ -29,13 +29,13 @@ The goal was to replicate the look and feel of a simple operating system while e
 - AI Tools
 
 
-📂 Repository Structure:
-- src/project/Main   # Java source code
-- src/project/style   # style.css
-- src/assets   # Icons, images, and media resources
-
-
 👥 Contributions:
 - Developed core desktop components (login, desktop, notepad, chRUme)
 - Implemented UI validations, error diaogs, and media interactions
 - Collaborated with teammates to design an intuitive and engaging user experience
+
+
+📂 Repository Structure:
+- src/project/Main   # Java source code
+- src/project/style   # style.css
+- src/assets   # Icons, images, and media resources
