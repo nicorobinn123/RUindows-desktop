@@ -7,15 +7,15 @@ The goal was to replicate the look and feel of a simple operating system while e
 ✨ Features:
 - Desktop Environtment: Login Page, taskbar, and shortcut icons (Trash, Notepad, chRUme)
 - Applications:
-  a. Notepad - simple text editor
-  b. chRUme - mock browser with custom pages:
+  - Notepad - simple text editor
+  - chRUme - mock browser with custom pages:
     - RUtube.net -> video playback with play/pause and independent sessions
     - RUtify.net -> music simulation
     - stockimages.net -> scrollable image gallery with download/rename validation
 - UI/UX Focus:
-  a. Clear navigation between multiple windows
-  b. Pop-up dialogs and error handling to guide user interactions
-  c. Interactive media handling (zoom, rotate, display)
+  - Clear navigation between multiple windows
+  - Pop-up dialogs and error handling to guide user interactions
+  - Interactive media handling (zoom, rotate, display)
 
 
 📽️ Demo:
